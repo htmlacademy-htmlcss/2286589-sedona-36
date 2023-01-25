@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Михаил Петров](https://up.htmlacademy.ru/htmlcss/36/user/2286589).
-* Наставник: `Неизвестно`.
+- Студент: [Михаил Петров](https://up.htmlacademy.ru/htmlcss/36/user/2286589).
+- Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
